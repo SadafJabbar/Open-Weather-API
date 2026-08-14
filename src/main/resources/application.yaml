@@ -1,0 +1,10 @@
+api:
+  key:{YOUR-API-KEY}
+
+geocoding:
+  url: http://api.openweathermap.org/geo/1.0/direct
+weather:
+  url: https://api.openweathermap.org/data/2.5/weather
+
+
+
